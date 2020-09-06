@@ -1,0 +1,6 @@
+C:\Stands\eF3_NR_3_7_79514_0(Po4ta_Bank)\Для теста файлы и данные\Otkat\StandOtkat\StandOtkat\bin\Debug\StandOtkat.exe.config
+C:\Stands\eF3_NR_3_7_79514_0(Po4ta_Bank)\Для теста файлы и данные\Otkat\StandOtkat\StandOtkat\bin\Debug\StandOtkat.exe
+C:\Stands\eF3_NR_3_7_79514_0(Po4ta_Bank)\Для теста файлы и данные\Otkat\StandOtkat\StandOtkat\bin\Debug\StandOtkat.pdb
+C:\Stands\eF3_NR_3_7_79514_0(Po4ta_Bank)\Для теста файлы и данные\Otkat\StandOtkat\StandOtkat\obj\Debug\StandOtkat.csprojResolveAssemblyReference.cache
+C:\Stands\eF3_NR_3_7_79514_0(Po4ta_Bank)\Для теста файлы и данные\Otkat\StandOtkat\StandOtkat\obj\Debug\StandOtkat.exe
+C:\Stands\eF3_NR_3_7_79514_0(Po4ta_Bank)\Для теста файлы и данные\Otkat\StandOtkat\StandOtkat\obj\Debug\StandOtkat.pdb
